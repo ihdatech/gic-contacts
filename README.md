@@ -1,4 +1,4 @@
-# gic-contacts
+# gic contacts
 
 A new Flutter project.
 
