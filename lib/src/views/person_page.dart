@@ -1,5 +1,5 @@
 import 'package:contacts/src/routes.dart';
-import 'package:contacts/src/viewmodels/loading_view_model.dart';
+import 'package:contacts/src/viewmodels/loading_viewmodel.dart';
 import 'package:contacts/src/viewmodels/person_viewmodel.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
